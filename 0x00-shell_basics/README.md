@@ -1,1 +1,1 @@
-My 0 task
+Display current directory contents in a long format
