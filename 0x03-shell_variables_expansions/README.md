@@ -1,1 +1,2 @@
-Create a script that creates
+#!/bin/bash
+creats
